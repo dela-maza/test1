@@ -1,5 +1,5 @@
 # core/registry/real_estate/schema/frame/common.py
-test!!!!!!!!!
+test222222!!!!!!!!!
 from core.registry.common.constants import MARGIN,DELETE
 def is_valid_value(v: str) -> bool:
     """余白記号もしくは抹消記号の場合はFalseを返す"""
